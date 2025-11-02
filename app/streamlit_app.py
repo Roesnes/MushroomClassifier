@@ -35,6 +35,10 @@ def main() -> None:
     st.write(
         "Provide mushroom characteristics below to predict whether the species is edible or poisonous."
     )
+    st.warning(
+        "Dette verktøyet gir kun rådgivende vurderinger. Konsulter alltid autoritative kilder før du spiser sopp fra naturen.",
+        icon="⚠️",
+    )
 
     model = None
     try:
