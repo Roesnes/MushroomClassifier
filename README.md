@@ -1,5 +1,8 @@
 # MushroomClassifier
 
+## 0 - Litt Om Valg Av Prosjekt
+
+I utgangspunktet var ikke prosjektet tenkt å handle om klassifisering av sopp. Planen var å bygge en app som bruker maskinlæring til å anbefale musikk, basert på brukerens input av sang og sangens musikalske egenskaper og metadata - hentet fra Spotify. Appen skulle ha et personlig preg, hvor modellen skulle trenes på mitt eget musikkbibliotek, og deretter anbefale musikk fra mitt bibliotek. Dessverre oppsto det problemer med å hente ut musikkinformasjon fra Spotify, da det ble klart at de har sperret tilgangen for "nye" utviklere (med apper registrert på deres utviklingsplattform etter november 2024), til å hente ut musikkegenskaper (det de kaller "musical features"). For meg var det personlige preget på prosjektet en viktig motivator - og jeg kunne ha fortsatt å utvikle prosjektet på kun metadata, men anbefalingene ville ikke vært i nærheten like interessante. Det finnes måter å jobbe seg rundt sperringene (selv om Spotify presiserer at det ikke er tillatt å bruke dataene deres til maskinlæring), men disse metodene ville vise seg å komplisere prosjektet betraktelig. Jeg bestemte meg da for å gå for - det kanskje litt "kjedeligere" - andrevalget, nemlig et program som vurderer spiseligheten av en sopp, basert på dens egenskaper. 
 ## 1 - Prosjektbeskrivelse
 ### 1.1 - Omfang
 
