@@ -88,3 +88,4 @@ I produksjon blir brukerforespørsler loggført (uten persondata) for å samle m
 - Schlimmer, J. (1987). _Mushroom Data Set_. UCI Machine Learning Repository. [https://archive.ics.uci.edu/ml/datasets/Mushroom]
 - Pedregosa, F., et al. (2011). _Scikit-learn: Machine Learning in Python_. Journal of Machine Learning Research, 12, 2825‑2830. 
 - Streamlit Inc. (2024). _Streamlit Documentation. [https://docs.streamlit.io/]
+- AI-verktøy som Perplexity.ai har blitt brukt til inspirasjon og hjelp til å bygge prosjektet: [https://www.perplexity.ai/]
